@@ -1,6 +1,6 @@
 {
   "name": "ciphcrypt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "minimun collection of functions to simplify the use of node's \"crypto\" module",
   "main": "index.js",
   "scripts": {
