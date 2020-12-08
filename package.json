@@ -1,0 +1,23 @@
+{
+  "name": "ciphcrypt",
+  "version": "0.0.1",
+  "description": "minimun collection of functions to simplify the use of node's \"crypto\" module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lensanag/CiphCyptJS.git"
+  },
+  "keywords": [
+    "crypto",
+    "library"
+  ],
+  "author": "Lenin Sanchez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lensanag/CiphCyptJS/issues"
+  },
+  "homepage": "https://github.com/lensanag/CiphCyptJS#readme"
+}
