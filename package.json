@@ -12,7 +12,10 @@
   },
   "keywords": [
     "crypto",
-    "library"
+    "encrypt",
+    "decrypt",
+    "cipher",
+    "decipher"
   ],
   "author": "Lenin Sanchez",
   "license": "MIT",
