@@ -161,7 +161,7 @@ _Checkout the examples_ 😅
 Current:
 - [ ] Add documentation.
 - [ ] Add automated test.
-- [ ] Add types definitions.
+- [x] Add types definitions. (Thanks [Geopic](https://github.com/geopic))
 - [ ] Add more algorithms/modes*
 
 *Currently support: 'aes-256-crt', 'aes-256-cbc', 'aes-256-ofb', 'aes-256-cfb' & 'aes-256-ocb'

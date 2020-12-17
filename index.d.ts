@@ -25,7 +25,7 @@ declare module 'ciphcrypt' {
   /**
    * Sync version of 'CompareCrypt'
    * @param plainText 
-   * @param cipherText 
+   * @param cipherText string format as 'encryptText:salt'
    */
   export function CompareCryptSync(plainText: string, cipherText: string): boolean;
 
